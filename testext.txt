@@ -1,1 +1,2 @@
 voila le fichier de test pour gedit
+holala c'est plus comme avant !
