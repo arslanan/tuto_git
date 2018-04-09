@@ -2,6 +2,7 @@
 voila le fichier de testa pour gedit 
 je fais un changement 2
 ici le chngement a lieu changement 33 ?
+que ce passe il ici ?
 =======
 voila le fichier de test pour gedit
 holala c'est plus comme avant !
