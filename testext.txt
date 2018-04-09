@@ -1,2 +1,3 @@
-voila le fichier de test pour gedit 
-je fais un chagement 2
+voila le fichier de testa pour gedit 
+je fais un changement 2
+ici le chngement a lieu
