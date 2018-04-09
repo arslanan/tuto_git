@@ -1,1 +1,2 @@
-voila le fichier de test pour gedit
+voila le fichier de test pour gedit 
+je fais un chagement 2
